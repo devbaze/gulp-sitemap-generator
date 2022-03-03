@@ -1,0 +1,17 @@
+{
+  "name": "devbaze/gulp-sitemap-generator",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Generate a JSON list of every page to use with gulp-uncss.",
+  "homepage": "https://github.com/devbaze/gulp-sitemap-generator",
+  "keywords": ["wordpress", "plugin"],
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Benjamin Pelto",
+      "email": "benjophp@gmail.com",
+      "homepage": "https://github.com/devbaze"
+    }
+  ]
+}
